@@ -1,0 +1,11 @@
+d:\Software\Projects\Ride Recommendation\Campus_Solutions\bin\Debug\Campus_Solutions.dacpac
+d:\Software\Projects\Ride Recommendation\Campus_Solutions\bin\Debug\Campus_Solutions.deps.json
+d:\Software\Projects\Ride Recommendation\Campus_Solutions\bin\Debug\Campus_Solutions.dll
+d:\Software\Projects\Ride Recommendation\Campus_Solutions\bin\Debug\Campus_Solutions.pdb
+d:\Software\Projects\Ride Recommendation\Campus_Solutions\obj\Debug\Campus_Solutions.GeneratedMSBuildEditorConfig.editorconfig
+d:\Software\Projects\Ride Recommendation\Campus_Solutions\obj\Debug\Model.xml
+d:\Software\Projects\Ride Recommendation\Campus_Solutions\obj\Debug\refactor.xml
+d:\Software\Projects\Ride Recommendation\Campus_Solutions\obj\Debug\postdeploy.sql
+d:\Software\Projects\Ride Recommendation\Campus_Solutions\obj\Debug\predeploy.sql
+d:\Software\Projects\Ride Recommendation\Campus_Solutions\obj\Debug\Campus_Solutions.dll
+d:\Software\Projects\Ride Recommendation\Campus_Solutions\obj\Debug\Campus_Solutions.pdb
